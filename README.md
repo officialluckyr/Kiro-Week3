@@ -23,3 +23,6 @@ This dashboard correlates historical Bitcoin's prices with Lunar Cycles (Moon Ph
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the Streamlit app:
+```bash
+   streamlit run app.py   
